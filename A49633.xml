@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Last dying speeches, confession, and execution of Rice Evans,  Margaret Corbet, Elizabeth Ford alias Jackson, and Katharine Binks, who were executed on Kennington Common in the county of Surrey, the 19th of March 1683/4 for murders, fflonies [sic], and burglaries : with the manner of their behaviour in the Marshalsea prison after their condemnation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49633</idno>
+            <idno type="STC">Wing L482C</idno>
+            <idno type="STC">ESTC R213472</idno>
+            <idno type="EEBO-CITATION">31355377</idno>
+            <idno type="OCLC">ocm 31355377</idno>
+            <idno type="VID">110430</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49633)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110430)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1742:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Last dying speeches, confession, and execution of Rice Evans,  Margaret Corbet, Elizabeth Ford alias Jackson, and Katharine Binks, who were executed on Kennington Common in the county of Surrey, the 19th of March 1683/4 for murders, fflonies [sic], and burglaries : with the manner of their behaviour in the Marshalsea prison after their condemnation.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, and with print show-through.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crime --  England.</term>
+               <term>Criminals --  England.</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:110430:1" rendition="simple:additions"/>
+            <head>THE Laſt Dying Speeches, CONFESSION, AND EXECUTION OF <hi>Rice Evans, Margaret Corbet, Elizabeth Ford</hi> alias <hi>Jackſon,</hi> and <hi>Katharine Binks,</hi> who were Execu<g ref="char:EOLhyphen"/>ted on KENNINGTON Common IN THE County of Surrey, The 19th of <hi>March</hi> 1683/4.</head>
+            <head>For <hi>M<g ref="char:V">Ʋ</g>RDERS, FFLONIES,</hi> and <hi>Burglaries.</hi> With the Manner of their Behaviour in the <hi>Marſhalſea</hi> Priſon, after their CONDEMNATION.</head>
+            <p>IT is appointed for all Men, good and bad, once to dye, Nature requi<g ref="char:EOLhyphen"/>ring it as a Debt ſince the Fall of <hi>Adam;</hi> but the Scandal of Dying, is to dye as an Evil Doer, when the Prudence of the Magiſtrate in diſpen<g ref="char:EOLhyphen"/>ſing the Law, is forced to cut off ſome as Rotten Branches, that if lon<g ref="char:EOLhyphen"/>ger permitted, would devour their Fellow-Members, and by infecting the reſt, bring all Order into Confuſion, and Kingdoms to Deſtruction: and, one would think, if the Severities of the Law, with the Miſeries, and Diſappointment of being forcibly deprived of that Life which Men gene<g ref="char:EOLhyphen"/>rally covet could not deterr Rational Creatures from ſplitting upon thoſe Rocks; yet the frequent Examples, and Executions of diverſe, at almoſt each Aſſize and Seſſions, ſhould at length ſo awaken the living Malefactors, as to terrifie them into a Reformation. But, an Example to the contrary being now before us, I ſhall add no more of this kind, but proceed to ac<g ref="char:EOLhyphen"/>quaint you, That eight Perſons received Sentence of Death at the Aſſi<g ref="char:EOLhyphen"/>zes held for the County of <hi>Surrey,</hi> in the <hi>Burrough</hi> of <hi>Southwark,</hi> on <hi>Sa<g ref="char:EOLhyphen"/>turday</hi> the 15th. of <hi>March,</hi> 1683. One of which, <hi>viz. Margaret Floyd,</hi> be<g ref="char:EOLhyphen"/>ing reprieved upon Pleading her Belly, and by a Jury of Women found to be with quick Child; three others, <hi>viz. Elizabeth Tymon, John Broman,</hi> and <hi>John Norwood,</hi> upon the humble Application of their Relations and Friends, are alſo reprieved for ſome ſhort time. The reſt were, purſuant to their Sentence, Executed, at the uſual Place of Execution for that County, at <hi>Kennington Common,</hi> on <hi>Wedneſday</hi> the 19th of the ſaid Month of <hi>March,</hi> 1683. A more particular Account of each of the ſaid Perſons, take as fol<g ref="char:EOLhyphen"/>loweth, <hi>Viz,</hi>
+            </p>
+            <pb n="2" facs="tcp:110430:2"/>
+            <p>
+               <hi>Rice Evans</hi> of <hi>Kennington</hi> in the Pariſh of <hi>Lambeth,</hi> having been Indict<g ref="char:EOLhyphen"/>ed for Killing his Wife; upon the Tryal it appeared, that the ſaid <hi>Evans</hi> keeping ſeveral Cows, and his Wiſe trading as a Milk-Woman; but hap<g ref="char:EOLhyphen"/>ning to lye in Child-bed, he in a Week, or two, or before ſhe was in a con<g ref="char:EOLhyphen"/>dition to riſe, forced her to go out and ſell the Milk: alſo, upon her ſelling a Calf cheaper than he thought it worth, or ſome other very little Provocation, he ſo kick'd and abus'd her, that by reaſon of his ſaid ill Uſage, ſhe in a few days died. The Midwife who laid her particularly depoſing, that the Blows he had given her, and unſeemly forcing her to work, was the cauſe of her Death; he was therefore found Guilty of Will<g ref="char:EOLhyphen"/>full Murder, and received Sentence of Death accordingly: But both at his Tryal, and before his Condemnation, when he was aſk'd what he had to ſay, why Judgment ſhould not paſs upon him to dye according to Law, he was in one Story, that the Midwife and the reſt had ſworn falſely againſt him, and that he was not guilty: in which Aſſeveration, he continued af<g ref="char:EOLhyphen"/>terwards in the Priſon; declaring, in his way of ſpeaking (being a <hi>Welch<g ref="char:EOLhyphen"/>man</hi>) to all who came to ſee him, that he was an Innocent Man, and par<g ref="char:EOLhyphen"/>ticularly to ſeveral Miniſters of the <hi>Church of England,</hi> that either by the Sheriffs Procurement, or their own Inclinations, uſed all poſſible Indea<g ref="char:EOLhyphen"/>vours to work in him, and the reſt of the Condemned Malefactors, a Con<g ref="char:EOLhyphen"/>feſſion of their Crimes, and a Sence of their ſad Condition. With which the ſaid <hi>Evans</hi> did not ſeem to be much affected, but remained in a kind of diſcontented, careleſs manner, or like a Perſon ſtupified and igno<g ref="char:EOLhyphen"/>rant.</p>
+            <p>Notice being ſent to ſeven of them that they muſt prepare to dye on <hi>Wedneſday</hi> the 19th of <hi>March,</hi> herein before mentioned: and that time drawing near, the Sacrament of the Lord's Supper was adminiſtred to them, after which, <hi>Rice Evans</hi> uſed many freſh Aſſeverations, ſaying to the Mini<g ref="char:EOLhyphen"/>ſter, What, Man, do you think I will damn my own Soul to deny the Truth now I have received God's Holy Sacrament? No, I will not do it. I tell thee Man, I am not Guilty; but they have maliciouſly ſworn againſt me, and I muſt dye wrongfully: I have not kill'd my Wife, the Nurſe who look'd to her would not ſwear it.</p>
+            <p>The Night before they were Executed a Reprieve came for <hi>Elizabeth Tymon,</hi> who was condemned to dye for Man-ſlaughter, in killing her Daugh<g ref="char:EOLhyphen"/>ter-in-Law at <hi>Croydon;</hi> and alſo <hi>John Norwood</hi> the Oat-meal-man, of <hi>Croy<g ref="char:EOLhyphen"/>don,</hi> who was convicted upon the Oaths of two poor People who ſwore a Robbery againſt him. In the Morning, before Execution, another Re<g ref="char:EOLhyphen"/>prieve was produced for <hi>John Broman.</hi> So only four remaining, they were put into a Cart together, about Ten in the Fore-noon, and drawn with three Horſes to <hi>Kennington Common.</hi>
+            </p>
+            <p>The three Divines who viſited them in the Priſon rid by in a Coach, and when come to the Place of Execution, went all up into the Cart, and renewed their Endeavours to produce a Confeſſion in the Priſoners, and prepare them for their Death; one of them at leaſt 15 or 20 times preſſing <hi>Rice Evans</hi> with all poſſible Earneſtneſs, how neceſſary it was for him to Confeſs, and repent of the Cruelty to his Wife, to which he at length ve<g ref="char:EOLhyphen"/>ry paſſionately anſwered, What, do you think I am a Mad-man, to deny it now I am going to dye, if I was guilty? I tell you man, I am not guil<g ref="char:EOLhyphen"/>ty of the Blood laid to my Charge: It's true, I am a <hi>Welchman,</hi> and have been angry ſometimes, but I have done no Murder. He being particular<g ref="char:EOLhyphen"/>ly aſkt if he did not beat his Wife at all, he ſaid, I cannot ſay but I have ſtrike her about a Year ſince, but not after her Lying-in, as they malici<g ref="char:EOLhyphen"/>ouſly
+<pb n="3" facs="tcp:110430:2"/>ſwear againſt me. My Wife was a green Woman, and might get her Death by Cold; but I have not kill'd her. I forgive them all that ſwore falſly againſt me, and pray God to forgive all their Souls, and give them a ſight of their Sins, and lay not my Blood to them who they have wronged, I am not guilty of the Blood, as the Nurſe can tell, who could not ſwear it. Uſing ſeveral ſuch Expreſſions in his <hi>Welſh</hi> Tone.</p>
+            <p>It was obſervable of him, that he had procured a very white new Shirt, made of <hi>Callico,</hi> large enough to come over all his Cloaths, which he wore uppermoſt, and would be hang'd in it, as is ſuppoſed, in Token of his In<g ref="char:EOLhyphen"/>nocency.</p>
+            <p>
+               <hi>Margaret Corbet,</hi> a very Young Woman of <hi>Wandſworth,</hi> in the County of <hi>Surrey,</hi> having been Indicted for murdering her Infant Baſtard-child, and being tryed, convicted, and condemned for the ſame, alſo utterly denied the ſaid Murder; and in the Priſon, after Condemnation, ſpent her Time in a very careleſs, ſottiſh manner, and much of it in Sleeping: when at any time ſhe was admoniſhed to rouze her ſelf, and think of the ſhort time ſhe had to live, ſhe would take little or no notice of ſuch Admonition: and when the Miniſters urged her very hard concerning the Murder of her Child, and told her what an unnatural Sin it was to deſtroy the Fruit of her own Body, with other ſuch like Expreſſions; if ſhe could no ways a<g ref="char:EOLhyphen"/>void to give an Anſwer, ſhe very ſtiffly told them, ſhe was not guilty or had kill'd any Child; in which dejected, careleſs, and ſtupified humour, ſhe continued till ſhe came to the Place of Execution, (being in truth but a very ignorant, poor Creature, hardly capable of underſtanding what the Miniſters ſaid to her,) but being urged how ſhe expected to be ſaved, ſhe anſwered, That ſhe hoped God would have Mercy upon her; and did at length confeſs that ſhe had kill'd her Child, by cutting its Throat: exclaim<g ref="char:EOLhyphen"/>ing a little againſt Young-men, and the Folly of Young-Women, being de<g ref="char:EOLhyphen"/>luded by them.</p>
+            <p>
+               <hi>Elizabeth Ford</hi> alias <hi>Jackson,</hi> was Tryed, and found guilty of ſtealing Goods to the Value of five Pounds: ſhe was an Elderly Woman, and had for many Years followed the like Trade, being a kind of Commander a<g ref="char:EOLhyphen"/>mongſt Pick-pockets and Thieves. After her Condemnation, ſhe proceed<g ref="char:EOLhyphen"/>ed to act with great Rudeneſs to her Fellow-Priſoners, diſturbing them in their Preparations for another World; which ſhe continued to do untill her Husband brought her word, that no Intereſt that he could uſe, would prevail for a Reprieve: ſhe then ſeeing there was no help, but ſhe muſt dye, became more moderate in her Carriage, and bewail'd her ſinful Life.</p>
+            <p>When drawn to the place of Execution, ſhe at the laſt made a free Con<g ref="char:EOLhyphen"/>feſſion of the ſeveral Offences by her committed, that ſhe was Guilty of the Fact for which ſhe now ſuffered; that had ſhe been Executed ſeveral Years ago, it had been juſtly; that ſhe went out of God's way by forſaking her Huſband, and then God forſook her, ſo that ſhe run into all manner of Wickedneſs. She earneſtly adviſed all Women to be conſtant to their Huſ<g ref="char:EOLhyphen"/>bands, and not defile their Marriage-Bed, which was the firſt Occaſion of her taking thoſe Courſes that brought her to this Shameful Death. She how<g ref="char:EOLhyphen"/>ever very ſenſibly declared, That ſhe hoped for Salvation in the Mercy of God, by the Merits of Jeſus Chriſt: and before ſhe was Executed, ſhe con<g ref="char:EOLhyphen"/>feſs'd to have had many Accomplices in her wicked Courſe; and by Name accuſed one that lives in the City of <hi>London</hi> to have been guilty with her of ſome very great Crime; whoſe Name, and Place of Abode; was taken by the Sheriff.</p>
+            <pb n="4" facs="tcp:110430:3" rendition="simple:additions"/>
+            <p>
+               <hi>Katharine Binks</hi> was a Young Woman that had been drawn into ill Courſes and Company; who taking a particular Kindneſs for one <hi>Ralph Baldwin,</hi> with whom it was reported ſhe was to be Married: in the mean time <hi>Baldwin</hi> ſo behaved himſelf, as to be ſent to <hi>Bridewell;</hi> and whilſt there, either that ſhe might get him out of Priſon, or ſome other ways help him, ſhe ſo acted, as that they the ſaid <hi>Ralph Baldwin</hi> and <hi>Katharine Binks,</hi> were Indicted for breaking into the Dwelling Houſe of <hi>William Al<g ref="char:EOLhyphen"/>len,</hi> in the Pariſh of St. <hi>Olives Southwark,</hi> on the 30th. of <hi>January</hi> laſt, at night, and ſtealing from thence one ſilver Tankard, one ſilver Caudle-Cup, one ſilver Beaker, ſix Pounds in Money, and ſome other Things: but upon the Tryal it appearing, that <hi>Baldwin</hi> was Priſoner in <hi>Bridewel</hi> at the time of the Robbery, and that <hi>Katharine Binks</hi> brought the ſaid Plate and Money to him thither, where it was ſeized, he was acquitted; but ſhe the ſaid <hi>Katharine Binks</hi> found Guilty, and Sentenced to ſuffer Death; ſpending the remaining time of her being in Priſon, with much Penitence, reading the Scriptures, and giving heed to ſuch wholſome Advice and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtructions as was adminiſtred to her; receiving the Sacrament with the reſt, and increaſing in her ſaid Behaviour, to the laſt; expreſſing her ſelf at the Place of Execution, like a true Penitent, confeſſing ſeveral Paſſages of her Ill Life, and particularly the Fact for which ſhe ſuff'red this Death, bewail<g ref="char:EOLhyphen"/>ing her great Unworthineſs to find Mercy with God Almighty at the laſt Moment, and when ſhe had no longer opportunity to ſin. But yet how<g ref="char:EOLhyphen"/>ever, in a very ſenſible manner made paſſionate Application that her Soul might be waſhed from all its Impurity in the Blood of Jeſus Chriſt, and that God would receive it into his infinite Mercy notwithſtanding all her Un<g ref="char:EOLhyphen"/>worthineſs.</p>
+            <p>Each of the ſaid four Priſoners having by the indefatigable Induſtry and ſpiritual Aſſiſtance of the before-mentioned three Divines (who all ſtood in the Care with them till ready to be drawn away) diſburdened them<g ref="char:EOLhyphen"/>ſelves; and being made ſenſible of that Eternity they were juſt entring in<g ref="char:EOLhyphen"/>to, each alſo earneſtly deſiring the Prayers of Miniſters and People for their happy Paſſage, two of the Miniſters (firſt one and then another) prayed with them very affectionately; after that, three Staves of the 25th <hi>Pſalm</hi> was ſung, beginning at the 10th Verſe: which being ended, the Priſoners diſcovered the Advantage they had received thereby, to the great Incou<g ref="char:EOLhyphen"/>ragement of thoſe ſpiritual Labourers: the Miniſters then came out of the Cart, and it being drawn away, the ſaid Condemned Perſons were Execu<g ref="char:EOLhyphen"/>ted, by hanging till they were dead.</p>
+            <p>When cut down, the Body of <hi>Kice Evens</hi> was put into a black Coffin, and carried on Mens Shoulders, to be buried by his Wife in <hi>Lambeth</hi> Church-Yard.</p>
+            <p>
+               <hi>Elizabeth Ford,</hi> alias <hi>Jackson, Margaret Corbet,</hi> and <hi>Katharine Binks,</hi> were brought back to be buried at <hi>Newington Butts;</hi> the former of the three had a Coffin, the others buried in their Cloaths.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed By <hi>George Croom,</hi> at the <hi>Blew-Ball</hi> in <hi>Thames-ſtreet,</hi> over againſt <hi>Baynards Caſtle,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
